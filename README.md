@@ -4,6 +4,9 @@
 
 - 🔭 I’m currently working at CNU Data mining Lab
 - 🌱 I’m currently learning Anomaly Detection and Machine Learning techniques
+
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
  
 <!--
 **Sumin971013/Sumin971013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
