@@ -8,8 +8,6 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=orange"/></a>
-
-
 <img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat-square&logo=apachespark&logoColor=red"/></a>
 
 
