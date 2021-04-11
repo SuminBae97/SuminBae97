@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at CNU Data mining Lab
 - 🌱 I’m currently learning Anomaly Detection and Machine Learning techniques
-- 
+ 
 <!--
 **Sumin971013/Sumin971013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
