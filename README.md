@@ -1,6 +1,9 @@
 ### Hi there 👋👋!!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuminBae97)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=steavee)](https://solved.ac/steavee/)
+
+
 
 - 🔭 I’m currently working at CNU Data mining Lab
 - 🌱 I’m currently learning Anomaly Detection and Machine Learning techniques
@@ -11,6 +14,11 @@
 <img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat-square&logo=apachespark&logoColor=red"/></a>
 
 
+ 
+ 
+ 
+ 
+ 
  
 <!--
 **Sumin971013/Sumin971013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
