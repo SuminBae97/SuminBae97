@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working at CNU Data mining Lab
-- 🌱 I’m currently learning Anomaly Detection and Machine Learning techniques
+- 🔭 I’m good
+- 🌱 And you?
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
