@@ -7,7 +7,7 @@
 
 - 🔭 I’m good
 - 🌱 And you?
-
+- 3/3
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=orange"/></a>
