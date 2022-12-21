@@ -3,12 +3,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuminBae97)](https://github.com/anuraghazra/github-readme-stats)</a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=steavee)](https://solved.ac/steavee/)
 
-
-
-- 🔭 I’m good
-- 🌱 And you?
-- 3/3
-
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=orange"/></a>
 <img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat-square&logo=apachespark&logoColor=red"/></a>
